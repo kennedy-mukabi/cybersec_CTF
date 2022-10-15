@@ -149,4 +149,5 @@ W3af – Web Application Attack and Audit Framework.
 XSSer – Automated XSS testor
 
 zsteg image steganography png & bmp
+https://www.aldeid.com/wiki/Category:Penetration-testing
 
