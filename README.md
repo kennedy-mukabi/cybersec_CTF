@@ -147,3 +147,6 @@ Postman – Add on for chrome for debugging network requests
 SQLMap – Automatic SQL injection and database takeover tooli
 W3af – Web Application Attack and Audit Framework.
 XSSer – Automated XSS testor
+
+zsteg image steganography png & bmp
+
