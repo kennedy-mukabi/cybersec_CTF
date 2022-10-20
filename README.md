@@ -161,4 +161,16 @@ Nozzlr — Nozzlr is a bruteforce framework, trully modular and script-friendly.
 Ophcrack — Windows password cracker based on rainbow tables.
 Patator — Patator is a multi-purpose brute-forcer, with a modular design.
 
+Web
+Tools used for solving Web challenges
+
+BurpSuite — A graphical tool to testing website security.
+Commix — Automated All-in-One OS Command Injection and Exploitation Tool.
+Hackbar — Firefox addon for easy web exploitation
+OWASP ZAP — Intercepting proxy to replay, debug, and fuzz HTTP requests and responses
+Postman — Add on for chrome for debugging network requests
+Raccoon — A high performance offensive security tool for reconnaissance and vulnerability scanning
+SQLMap — Automatic SQL injection and database takeover tooli
+W3af — Web Application Attack and Audit Framework.
+XSSer — Automated XSS testor
 
