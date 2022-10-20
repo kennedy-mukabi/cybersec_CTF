@@ -151,3 +151,14 @@ XSSer – Automated XSS testor
 zsteg image steganography png & bmp
 https://www.aldeid.com/wiki/Category:Penetration-testing
 
+Bruteforcers
+Tools used for various kind of bruteforcing (passwords etc.)
+
+Hashcat — Password Cracker
+John The Jumbo — Community enhanced version of John the Ripper
+John The Ripper — Password Cracker
+Nozzlr — Nozzlr is a bruteforce framework, trully modular and script-friendly.
+Ophcrack — Windows password cracker based on rainbow tables.
+Patator — Patator is a multi-purpose brute-forcer, with a modular design.
+
+
