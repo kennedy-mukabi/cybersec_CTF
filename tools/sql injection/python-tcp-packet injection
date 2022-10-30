@@ -1,6 +1,7 @@
 import socket
 import struct
 from random import randint
+import pandas as pd 
 
 def create_icmp_packet():
    type = 8
